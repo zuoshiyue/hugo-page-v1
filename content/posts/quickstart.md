@@ -2,7 +2,7 @@
 title = 'Quickstart'
 date = 2024-11-25T21:13:30+08:00
 menu = ['posts']
-tags = ['hugo']
+tags = ['hugo', 'github-page']
 +++
 
 ## Hugo 快速开始指引
