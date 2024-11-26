@@ -43,7 +43,7 @@
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = ""
+      logo = "https://avatars.githubusercontent.com/u/29472925?s=400&amp;u=0d4f6377e0811825b99f1bf5950e40abf4225c43&amp;v=4"
       # title name
       # 标题名称
       name = "zuoshiyue site"
@@ -166,7 +166,7 @@
   [params.home]
     # amount of RSS pages
     # RSS 文章数目
-    rss = 10
+    rss = 20
     # Home page profile
     # 主页个人信息
     [params.home.profile]
@@ -176,7 +176,7 @@
       gravatarEmail = "yokenuoli@vip.qq.com"
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = ""
+      avatarURL = "https://avatars.githubusercontent.com/u/29472925?s=400&amp;u=0d4f6377e0811825b99f1bf5950e40abf4225c43&amp;v=4"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = "zuoshiyue site"
@@ -198,7 +198,7 @@
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 6
+      paginate = 10
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
@@ -283,7 +283,7 @@
   [params.page]
     # whether to hide a page from home page
     # 是否在主页隐藏一篇文章
-    hiddenFromHomePage = true
+    hiddenFromHomePage = false
     # whether to hide a page from search results
     # 是否在搜索结果中隐藏一篇文章
     hiddenFromSearch = false
