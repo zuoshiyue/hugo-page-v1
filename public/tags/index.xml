@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - zuoshiyue Site</title>
+        <link>http://localhost:1313/hugo-page-v1/tags/</link>
+        <description>Tags - Tag - zuoshiyue Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 21:13:30 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/hugo-page-v1/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo</title>
+    <link>http://localhost:1313/hugo-page-v1/tags/hugo/</link>
+    <pubDate>Mon, 25 Nov 2024 21:13:30 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/hugo-page-v1/tags/hugo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
