@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hugo - Tag - zuoshiyue Site</title>
-        <link>http://localhost:1313/hugo-page-v1/tags/hugo/</link>
+        <link>https://zuoshiyue.github.io/hugo-page-v1/tags/hugo/</link>
         <description>Hugo - Tag - zuoshiyue Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 21:13:30 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/hugo-page-v1/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 21:13:30 &#43;0800</lastBuildDate><atom:link href="https://zuoshiyue.github.io/hugo-page-v1/tags/hugo/" rel="self" type="application/rss+xml" /><item>
     <title>Quickstart</title>
-    <link>http://localhost:1313/hugo-page-v1/posts/quickstart/</link>
+    <link>https://zuoshiyue.github.io/hugo-page-v1/posts/quickstart/</link>
     <pubDate>Mon, 25 Nov 2024 21:13:30 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/hugo-page-v1/posts/quickstart/</guid>
+    <guid>https://zuoshiyue.github.io/hugo-page-v1/posts/quickstart/</guid>
     <description><![CDATA[Hugo 快速开始指引 注意：这篇文章依赖 Hugo v0.11 版本的功能。如果你的 Hugo 是早期版本，你需要在此之前 升级 你的版本。
 第一步 安装 Hugo 到 Hugo Releases 下载适合你的操作系统的版本。
 把 hugo （或者是 Windows 的 hugo.exe） 放到你的 环境变量 PATH 所在的目录，因为下一步我们将会用到它。
