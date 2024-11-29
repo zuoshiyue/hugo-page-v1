@@ -91,8 +91,8 @@ languageName = "English"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
+  name = "zuoshiyue"
+  email = "yokenuoli@vip.qq.com"
   link = ""
 
 # Menu config
@@ -234,8 +234,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
+  name = "zuoshiyue"
+  email = "yokenuoli@vip.qq.com"
   link = ""
 
 # Menu config
