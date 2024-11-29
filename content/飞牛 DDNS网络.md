@@ -1,7 +1,6 @@
 +++
 title = '飞牛 DDNS网络'
 date = 2024-11-29T11:38:40+08:00
-draft = true
 +++
 
 ## 飞牛 DDNS网络
