@@ -202,7 +202,7 @@
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/zuoshiyue"
+    GitHub = "/zuoshiyue"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
